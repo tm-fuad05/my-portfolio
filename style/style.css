@@ -132,4 +132,79 @@ text-align: left;
 .img-div{
     margin-right:40px ;
 }
+.con-about{
+    width: 960px;
+    height: 465px;
+    margin:100px auto;
+    border-radius: 10px;
+background: rgb(255, 248, 243);
+display: flex;
+align-items: center;
+justify-content:center ;
+}
+.con-about .about{
+    width:700px ;
+    /* margin: 0px auto; */
+    background-color: rgb(255, 255, 255);
+    /* padding: px; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid;
+    
+}
+.con-about .about .con-para{
+    color: rgb(117, 117, 117);
+    font-family: Open Sans;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0%;
+    text-align: center;
+    padding: 0px 5px;
+}
+.con-about .about .con-head{
+    color: rgb(24, 24, 24);
+font-family: Open Sans;
+font-size: 100px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0%;
+text-align: center;
+}
+
+.con-about .about .info{
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    font-family: Open Sans;
+font-size: 15px;
+/* font-weight: 700; */
+/* line-height: 30px; */
+letter-spacing: 0%;
+text-align: center;
+color: rgb(117, 117, 117);
+}
+.con-about .about .info span{
+    font-weight: bold;
+    color: rgb(71, 71, 71);
+}
+.my-work .tit-des{
+    width: 820px;
+    margin:0 auto;
+    text-align: center;
+}
+.my-work .tit-des .des{
+    color: rgb(117, 117, 117);
+font-family: Open Sans;
+font-size: 50px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: center;
+
+}
+
+
 
