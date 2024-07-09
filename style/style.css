@@ -141,6 +141,7 @@ background: rgb(255, 248, 243);
 display: flex;
 align-items: center;
 justify-content:center ;
+margin-bottom: 50px;
 }
 .con-about .about{
     width:700px ;
