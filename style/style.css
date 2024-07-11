@@ -390,5 +390,22 @@ footer form textarea{
 footer form textarea:focus{
     border: 1px solid orange;
 }
+footer form input[type="submit"]{
+    width: max-content;
+    font-family: open sans;
+    border-radius: 5px;
+background: rgb(253, 110, 10);
+border: none;
+padding: 8px 31px ;
+color: rgb(255, 255, 255);
+/* font-family: Open Sans; */
+/* font-size: 18px; */
+font-weight: 500;
+line-height: 27px;
+letter-spacing: 0%;
+text-align: left;
+transition: all 0.5s;
+cursor:pointe
+}
 
     
