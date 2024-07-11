@@ -6,10 +6,12 @@
     padding: 0;
 }
 header{
+    
     /* margin-top: 0px; */
     height: 620.5px;
     /* border: 3px solid; */
-    background-image: url("../assets/Untitled\ design.png") ,url("../assets/header_bg.png");
+    background-image: url("../assets/Untitled\ design.png") ,url("../assets/header.png");
+    background-color: #FFF8F3;
     background-repeat: no-repeat;
     background-position:top left,  bottom right ;
     /* background-size:contain; */
